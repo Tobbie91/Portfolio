@@ -22,14 +22,14 @@ export const projects = [
     description: "This is a project that was built to ease the work flow of a court.",
       image: '/images/3.png',
       tags: ['React', 'TypeScript', ],
-    source: 'rvs-family-court-staging.netlify.app',
-    visit: 'rvs-family-court-staging.netlify.app',
+    source: 'https://familycourt.rv.gov.ng/',
+    visit: 'https://familycourt.rv.gov.ng/',
     id: 2,
   },
   {
     title: 'Star Wars',
     description: "A single page application (SPA) that displays all characters of the Star Wars Movie. Built with vanilla JavaScript, JQuery,HTML5 and CSS3.",
-    image: '/images/4.jpg',
+    image: '/images/4.png',
     tags: [' HTML5, CSS3, JavaScript, JQuery'],
     source: ' https://tobbiestarwars.netlify.app/ ',
     visit: ' https://tobbiestarwars.netlify.app/',
@@ -47,9 +47,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2021, text: 'Started my journey', },
+  { year: 2022, text: 'Worked with Decagon', },
+  { year: 2023, text: 'Worked at Esemie', },
+  
 ];
