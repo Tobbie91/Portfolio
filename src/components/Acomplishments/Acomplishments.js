@@ -18,6 +18,7 @@ const data = [
     text: 'Completed training programs', }
 ];
 
+
 const Acomplishments = () => (
   <Section>
     <SectionTitle>Personal Achievements</SectionTitle>
